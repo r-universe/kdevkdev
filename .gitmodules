@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rineq"]
+	path = rineq
+	url = https://github.com/kdevkdev/rineq
+	shallow = true
+	registered = true
